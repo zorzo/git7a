@@ -1,0 +1,14 @@
+test 7a
+
+echo "# git7a" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zorzo/git7a.git
+git push -u origin master
+
+git remote add origin https://github.com/zorzo/git7a.git
+git push -u origin master
+
+
+https://github.com/zorzo/git7a.git
